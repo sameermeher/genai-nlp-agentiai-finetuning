@@ -1,3 +1,6 @@
 ipykernel
 nltk
 scikit-learn
+gensim
+svgling
+transformers
