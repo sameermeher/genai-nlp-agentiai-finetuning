@@ -6,3 +6,4 @@ svgling
 transformers
 tensorflow
 openai
+chromadb
