@@ -7,3 +7,5 @@ transformers
 tensorflow
 openai
 chromadb
+pinecone
+weaviate-client
