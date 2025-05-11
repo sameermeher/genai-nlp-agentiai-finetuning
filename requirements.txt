@@ -9,3 +9,10 @@ openai
 chromadb
 pinecone
 weaviate-client
+euriai
+tiktoken
+faiss-cpu
+langchain
+pillow
+langgraph
+langchain-community
